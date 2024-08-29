@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e6e0c73-b7f9-4b26-bd7d-0c62f1c7ff2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Relaciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Factura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/ItemFactura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Producto.java" afterDir="false" />
+    <list default="true" id="5e6e0c73-b7f9-4b26-bd7d-0c62f1c7ff2e" name="Changes" comment="avance con la clese factura">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/ItemFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/ItemFactura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nombreCompania/appfacturas/model/Producto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JaramilloT"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JaramilloT/Facturas.git",
+    "accountId": "d3d89b7d-87f9-40dc-b5c7-e178dcc8aba3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2lC9MPxvZPVTjB0NBT7mXl8AfcK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -58,6 +66,37 @@
       <option name="presentableId" value="Default" />
       <updated>1724673145340</updated>
     </task>
+    <task id="LOCAL-00001" summary="avance con la clese factura">
+      <option name="closed" value="true" />
+      <created>1724929888039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724929888039</updated>
+    </task>
+    <task id="LOCAL-00002" summary="avance con la clese factura">
+      <option name="closed" value="true" />
+      <created>1724929899293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724929899293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="avance con la clese factura" />
+    <option name="LAST_COMMIT_MESSAGE" value="avance con la clese factura" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
